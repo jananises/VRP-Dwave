@@ -1,2 +1,3 @@
 # VRP-Dwave
-Dwave hybrid solvers
+An approach to solve the Vehicle Routing Problem (VRP) using quantum computing
+

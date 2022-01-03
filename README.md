@@ -1,4 +1,4 @@
-https://ide.dwavesys.io/#https://github.com/MonitSharma/D-Wave-VRP
+https://ide.dwavesys.io/#https://github.com/jananises/VRP-Dwave
 
 
 # An approach to solve the Vehicle Routing Problem (VRP) using quantum computing
